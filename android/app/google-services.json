@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "3563564045",
+    "project_id": "food-app-90df8",
+    "storage_bucket": "food-app-90df8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:3563564045:android:d278fa55633db8b27af944",
+        "android_client_info": {
+          "package_name": "com.example.yummyfoodapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "3563564045-lt82usm3o0c05fnuhi4ua0qaued2p3l8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8Ye539Od6b0iVM24fLIyovxr4CAvZzag"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "3563564045-lt82usm3o0c05fnuhi4ua0qaued2p3l8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
